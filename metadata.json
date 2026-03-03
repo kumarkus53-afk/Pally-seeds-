@@ -1,0 +1,5 @@
+{
+  "name": "Pally Seeds",
+  "description": "A professional Agri-Tech E-commerce platform for farmers and dealers to buy and sell high-quality seeds with AI-powered soil analysis and education hub.",
+  "requestFramePermissions": ["geolocation"]
+}
